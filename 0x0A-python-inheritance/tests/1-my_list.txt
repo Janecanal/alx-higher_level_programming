@@ -1,0 +1,5 @@
+>>> My_list = MyList()
+>>> My_list.append(3)
+>>> My_list.append(6)
+>>> print(MyList)
+    [3, 6] 
